@@ -32,6 +32,7 @@
   .TodoList{
     max-width: 100%;
     max-height: 100%;
+    margin: auto;
+    box-shadow: 0;
   }
 }
-  
